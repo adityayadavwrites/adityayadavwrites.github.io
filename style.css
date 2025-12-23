@@ -69,3 +69,6 @@ footer {
   color: #9a8f9c;
   font-size: 0.85em;
 }
+small {
+  font-style: italic;
+}
