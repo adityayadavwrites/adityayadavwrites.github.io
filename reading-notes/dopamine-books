@@ -1,0 +1,39 @@
+<body>
+
+<nav>
+  <a href="../index.html">Home</a> |
+  <a href="../reading-notes.html">Reading Notes</a> |
+  <a href="../contact.html">Find Me</a>
+</nav>
+
+<main class="post">
+
+<h1>Books That Raised My Dopamine</h1>
+
+<p class="intro">
+These books were pure serotonin — fast, emotionally satisfying,
+and impossible to put down.
+</p>
+
+<section>
+  <h2>Book Title One — Author</h2>
+  <p>
+    Why it worked: pacing, banter, and payoff that scratched
+    exactly the right part of my brain.
+  </p>
+</section>
+
+<section>
+  <h2>Book Title Two — Author</h2>
+  <p>
+    Why it worked: high emotional reward with zero drag.
+  </p>
+</section>
+
+</main>
+
+<footer>
+  <p><small>© 2026 Aditya Yadav. All rights reserved.</small></p>
+</footer>
+
+</body>
