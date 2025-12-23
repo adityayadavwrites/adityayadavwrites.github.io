@@ -1,4 +1,10 @@
 /* 🌸 Base layout */
+html, body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  background-color: #f6f3fa; /* your lavender */
+}
 body {
   font-family: "Georgia", "Times New Roman", serif;
   background-color: #faf8f2;
