@@ -151,3 +151,7 @@ section h2 {
   opacity: 0.8;
   margin-bottom: 3rem;
 }
+.short-piece {
+  max-width: 680px;
+  margin: 0 auto;
+}
