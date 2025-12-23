@@ -11,11 +11,6 @@ html, body {
     #e3dfec 100%
   );
 }
-.hero, .card {
-  background-color: rgba(255, 255, 255, 0.15);
-  border-radius: 16px;
-  padding: 2rem;
-}
 html, body {
   font-family: "Georgia", "Times New Roman", serif;
   background: linear-gradient(
