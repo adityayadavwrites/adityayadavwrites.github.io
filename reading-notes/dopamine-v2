@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Books That Raised My Dopamine | Aditya Yadav</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+
+<nav>
+  <a href="../index.html">Home</a> |
+  <a href="../about.html">About</a> |
+  <a href="../writing.html">Writing</a> |
+  <a href="../reading-notes.html">Reading Notes</a> |
+  <a href="../contact.html">Find Me</a>
+</nav>
+
+<main class="post">
+
+<h1>Books That Raised My Dopamine</h1>
+
+<p class="intro">
+Fast, fun, emotionally satisfying reads that did something
+to my brain and reminded me why joy matters.
+</p>
+
+<section>
+  <h2>Praise — Sara Cate</h2>
+  <p>
+    Why it worked: sharp pacing, instant chemistry,
+    and payoff that felt genuinely rewarding.
+  </p>
+</section>
+
+<section>
+  <h2>Heartless — Elsie Silver</h2>
+  <p>
+    Why it worked: high emotional return with zero drag —
+    pure serotonin in story form.
+  </p>
+</section>
+
+</main>
+
+<footer>
+  <p><small>© 2026 Aditya Yadav. All rights reserved.</small></p>
+</footer>
+
+</body>
+</html>
