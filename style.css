@@ -5,11 +5,15 @@ html, body {
   min-height: 100vh;
   margin: 0;
   padding: 0;
-  background: linear-gradient(
-    180deg,
-    #ece8f3 0%,
-    #e3dfec 100%
+  background: #ece8f3 0%,
   );
+}
+.hero {
+  max-width: 640px;
+  padding: 2.8rem 3rem;
+  background-color: rgba(255, 255, 255, 0.35);
+  border-radius: 18px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
 }
 html, body {
   font-family: "Georgia", "Times New Roman", serif;
