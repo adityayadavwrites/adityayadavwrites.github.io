@@ -135,3 +135,19 @@ section h2 {
   margin-bottom: 0.4em;
   color: #3f3a63;
 }
+.story {
+  max-width: 680px;
+  margin: 0 auto;
+  line-height: 1.8;
+  font-size: 1rem;
+}
+
+.story p {
+  margin-bottom: 1.5em;
+}
+
+.subtitle {
+  font-style: italic;
+  opacity: 0.8;
+  margin-bottom: 3rem;
+}
