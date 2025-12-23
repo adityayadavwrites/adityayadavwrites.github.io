@@ -83,3 +83,22 @@ footer {
 small {
   font-style: italic;
 }
+main.post {
+  margin-top: 60px;
+}
+
+p.intro {
+  font-style: italic;
+  margin-bottom: 2.2em;
+  color: #7a758a;
+}
+
+section {
+  margin-bottom: 2.5em;
+}
+
+section h2 {
+  font-size: 1.2em;
+  margin-bottom: 0.4em;
+  color: #3f3a63;
+}
