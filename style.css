@@ -15,6 +15,11 @@ html, body {
   border-radius: 18px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
 }
+body.home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 html, body {
   font-family: "Georgia", "Times New Roman", serif;
   background: linear-gradient(
