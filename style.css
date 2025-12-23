@@ -3,11 +3,20 @@ html, body {
   margin: 0;
   padding: 0;
   min-height: 100%;
-  background-color: #ece8f3; /* your lavender */
+  background: linear-gradient(
+  180deg,
+  #ece8f3 0%,
+  #e3dfec 100%
+);
+; /* your lavender */
 }
 body {
   font-family: "Georgia", "Times New Roman", serif;
-  background-color: #faf8f2;
+  background: linear-gradient(
+  180deg,
+  #ece8f3 0%,
+  #e3dfec 100%
+);
   color: #2e2a2a;
   max-width: 720px;
   margin: 90px auto;
