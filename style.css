@@ -38,6 +38,13 @@ h2 {
   font-size: 1.4em;
   margin-top: 2.5em;
 }
+h3 {
+  font-size: 1.05em;          /* smaller than h2 */
+  font-weight: normal;
+  margin-top: 1.6em;
+  margin-bottom: 0.4em;
+  color: #3f3a63;             /* same lavender ink as h1 & h2 */
+}
 strong {
   color: #3f3a63;
   font-weight: normal;
