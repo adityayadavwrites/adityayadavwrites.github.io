@@ -1,4 +1,10 @@
 /* 🌸 Base layout */
+body.home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
 html, body {
   margin: 0;
   padding: 0;
