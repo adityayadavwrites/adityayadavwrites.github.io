@@ -1,4 +1,21 @@
 /* 🌸 Base layout */
+/* Global background */
+html, body {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(
+    180deg,
+    #ece8f3 0%,
+    #e3dfec 100%
+  );
+}
+.hero, .card {
+  background-color: rgba(255, 255, 255, 0.15);
+  border-radius: 16px;
+  padding: 2rem;
+}
 html, body {
   font-family: "Georgia", "Times New Roman", serif;
   background: linear-gradient(
