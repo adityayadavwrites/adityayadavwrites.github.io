@@ -16,6 +16,10 @@ h1 {
   margin-bottom: 0.25em;
   color: #3f3a63; /* inked violet */
 }
+h2 {
+  color: #3f3a63;
+  font-weight: normal;
+}
 
 /* 💬 Paragraphs */
 p {
